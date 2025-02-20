@@ -4,7 +4,7 @@
 
 ---
 
-Implementation of 2 functions of string.h library with tests. The goal of this project is to understand how string processing functions work using C language. In the course of the work, analyze the existing auxiliary functions of string processing, determine how other data types are translated into strings.
+Implementation of 873647623 functions of string.h library with tests. The goal of this project is to understand how string processing functions work using C language. In the course of the work, analyze the existing auxiliary functions of string processing, determine how other data types are translated into strings.
 
 USEFUL NOTES:
 
